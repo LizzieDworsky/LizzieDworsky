@@ -28,6 +28,9 @@ I'm a skilled software developer with a strong foundation in C#, ASP.NET Core, J
 ### Development Tools
 ![](https://img.shields.io/badge/Editor-VS_Code-informational?style=flat&logo=visual-studio-code&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/IDE-Visual_Studio_Community-informational?style=flat&logo=visual-studio&logoColor=white&color=2bbc8a)
+![](https://img.shields.io/badge/Database_Tool-MongoDB_Compass-informational?style=flat&logo=mongodb&logoColor=white&color=2bbc8a)
+![](https://img.shields.io/badge/Database-MySQL-informational?style=flat&logo=mysql&logoColor=white&color=2bbc8a)
+![](https://img.shields.io/badge/API_Tool-Postman-informational?style=flat&logo=postman&logoColor=white&color=2bbc8a)
 
 ### Deployment Platforms
 ![](https://img.shields.io/badge/Deployment-Netlify-informational?style=flat&logo=netlify&logoColor=white&color=2bbc8a)
