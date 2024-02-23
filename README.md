@@ -41,7 +41,9 @@ I'm a skilled software developer with a strong foundation in C#, ASP.NET Core, J
 - A lifelong fan of Dragonball, Harry Potter, and the 49ers, I cherish the connections and memories these interests foster with my family and friends.
 
 > "Simplicity is the ultimate sophistication." – Leonardo da Vinci
+>
 > "I have not failed. I've just found 10,000 ways that won't work." – Thomas Edison
+>
 > "The only way to do great work is to love what you do." – Steve Jobs
 
 <!--
