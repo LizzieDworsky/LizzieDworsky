@@ -18,7 +18,31 @@ I'm a skilled software developer with a strong foundation in C#, ASP.NET Core, J
 ![](https://img.shields.io/badge/Framework-Django-informational?style=flat&logo=django&logoColor=white&color=2bbc8a)
 
 ## 🌟 Highlighted Projects
-- WIP 🔨
+
+### Custom List C#
+- **Description**: This project highlights my adeptness with data structures in C#, demonstrated by creating a custom data type. Employing test-driven development (TDD) and unit testing, this project exemplifies well-structured and thoroughly documented code, showcasing a deep understanding of C# fundamentals and best practices.
+- **Technologies**: C#, TDD, Unit Testing
+- [View Repository](https://github.com/LizzieDworsky/CustomListCSharp)
+
+### ASP.NET Core API - BookNook
+- **Description**: BookNook stands as a testament to my proficiency with C# and ASP.NET Core, featuring complex endpoints, authentication, and Data Transfer Objects (DTOs). This intermediate-level project not only underlines my capabilities in backend development but also emphasizes thoughtful API design and data management.
+- **Technologies**: C#, ASP.NET Core, Authentication, DTOs
+- [View Repository](https://github.com/LizzieDworsky/BookNook)
+
+### MERN eCommerce
+- **Description**: As a recent endeavor in full-stack development, this project incorporates JWT authentication and React Router in a basic eCommerce platform. Despite being a work in progress, it showcases clean code practices, including a custom React hook for authentication, highlighting my skills in modern web development with the MERN stack.
+- **Technologies**: MongoDB, Express.js, React.js, Node.js, JWT
+- [View Repository](https://github.com/LizzieDworsky/MERN_eCommerce)
+
+### MERN Auth Starter Code
+- **Description**: This project serves as a robust boilerplate for MERN stack applications requiring authentication. With up-to-date code and a clear structure that includes backend controllers and a custom React authentication hook, it demonstrates my ability to create reusable, well-documented codebases that can kickstart future projects.
+- **Technologies**: MongoDB, Express.js, React.js, Node.js, JWT, React Router
+- [View Repository](https://github.com/LizzieDworsky/MERN_Auth_Starter)
+
+### Django/React Personal Finance
+- **Description**: My most ambitious project to date, combining Django and React to create a comprehensive personal finance tool. Despite its last update being over a year ago, the project's complexity, use of authentication, and integration of React Router showcase my ability to develop full-scale applications with attention to both frontend and backend intricacies.
+- **Technologies**: Django, React.js, Authentication, React Router (older version)
+- [View Repository](https://github.com/LizzieDworsky/PersonalFinanceProject)
 
 ## 💼 Professional Experience
 - **Software Developer / Instructor**, devCodeCamp - Remote (2022-2024)
