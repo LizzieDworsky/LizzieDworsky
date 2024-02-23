@@ -4,18 +4,33 @@
 I'm a skilled software developer with a strong foundation in C#, ASP.NET Core, JavaScript, and React.js. My expertise extends to SQL databases, MERN stack development, and Python with Django, enabling me to deliver comprehensive full-stack solutions. I believe in the importance of a solid foundation to build innovative solutions upon, and I embrace the challenges of software development and the continuous journey of learning.
 
 ## 🔧 Technologies & Tools
+
+### Languages
 ![](https://img.shields.io/badge/Code-C%23-informational?style=flat&logo=c-sharp&logoColor=white&color=2bbc8a)
+![](https://img.shields.io/badge/Code-JavaScript-informational?style=flat&logo=javascript&logoColor=white&color=2bbc8a)
+![](https://img.shields.io/badge/Code-Python-informational?style=flat&logo=python&logoColor=white&color=2bbc8a)
+
+### Frameworks & Libraries
 ![](https://img.shields.io/badge/Framework-ASP.NET_Core-informational?style=flat&logo=.net&logoColor=white&color=2bbc8a)
-![](https://img.shields.io/badge/Frontend-JavaScript-informational?style=flat&logo=javascript&logoColor=white&color=2bbc8a)
+![](https://img.shields.io/badge/Framework-ASP.NET_MVC-informational?style=flat&logo=.net&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/Library-React.js-informational?style=flat&logo=react&logoColor=white&color=2bbc8a)
-![](https://img.shields.io/badge/Tools-Git-informational?style=flat&logo=git&logoColor=white&color=2bbc8a)
-![](https://img.shields.io/badge/Editor-VS_Code-informational?style=flat&logo=visual-studio-code&logoColor=white&color=2bbc8a)
+![](https://img.shields.io/badge/Framework-Django-informational?style=flat&logo=django&logoColor=white&color=2bbc8a)
+![](https://img.shields.io/badge/Backend-Express.js-informational?style=flat&logo=express&logoColor=white&color=2bbc8a)
+
+### Databases
 ![](https://img.shields.io/badge/Database-SQL-informational?style=flat&logo=mysql&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/Database-MongoDB-informational?style=flat&logo=mongodb&logoColor=white&color=2bbc8a)
-![](https://img.shields.io/badge/Backend-Express.js-informational?style=flat&logo=express&logoColor=white&color=2bbc8a)
+
+### Runtime & Version Control
 ![](https://img.shields.io/badge/Runtime-Node.js-informational?style=flat&logo=node.js&logoColor=white&color=2bbc8a)
-![](https://img.shields.io/badge/Code-Python-informational?style=flat&logo=python&logoColor=white&color=2bbc8a)
-![](https://img.shields.io/badge/Framework-Django-informational?style=flat&logo=django&logoColor=white&color=2bbc8a)
+![](https://img.shields.io/badge/Tools-Git-informational?style=flat&logo=git&logoColor=white&color=2bbc8a)
+
+### Development Tools
+![](https://img.shields.io/badge/Editor-VS_Code-informational?style=flat&logo=visual-studio-code&logoColor=white&color=2bbc8a)
+![](https://img.shields.io/badge/IDE-Visual_Studio_Community-informational?style=flat&logo=visual-studio&logoColor=white&color=2bbc8a)
+
+### Deployment Platforms
+![](https://img.shields.io/badge/Deployment-Netlify-informational?style=flat&logo=netlify&logoColor=white&color=2bbc8a)
 
 ## 🌟 Highlighted Projects
 
