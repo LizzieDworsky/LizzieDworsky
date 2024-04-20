@@ -35,6 +35,14 @@ I'm a skilled software developer with a strong foundation in C#, ASP.NET Core, J
 ### Deployment Platforms
 ![](https://img.shields.io/badge/Deployment-Netlify-informational?style=flat&logo=netlify&logoColor=white&color=2bbc8a)
 
+## 🛠️ Currently Working On
+
+### BookNook - A Personalized Reading Hub
+- **Description**: BookNook is a dynamic web application inspired by GoodReads, designed to cater to book enthusiasts. Utilizing the Google Books API, BookNook offers functionalities such as searching for books, accessing detailed information, adding books to favorites, and leaving reviews. This project integrates a Django backend to manage user favorites and reviews, enhancing interactive features with a user-friendly React frontend.
+- **Technologies**: Python, Django, React.js, Google Books API
+- **Status**: In active development. Check back often for updates and new features!
+- [View Repository](https://github.com/LizzieDworsky/DjangoReact_BookNook)
+
 ## 🌟 Highlighted Projects
 
 ### Custom List C#
